@@ -1,0 +1,23 @@
+
+# Ignore the temp file
+tempfile.txt
+
+# Ignore OS specific file
+.DS_Store
+
+# Ignore compressed files
+*.zip
+*.gz
+
+# Ignore log files
+log/*.log
+log/*.log.[0-9]
+
+#Ignore photoshop files
+assets/photoshop
+
+#Ignore videos
+assets/videos
+
+
+!assets/videos/tour_*.mp4
