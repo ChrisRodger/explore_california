@@ -1,6 +1,7 @@
 
 # Ignore the temp file
 tempfile.txt
+tempfile2.txt
 
 # Ignore OS specific file
 .DS_Store
